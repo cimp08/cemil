@@ -33,7 +33,7 @@
 
 <h4>Frameworks</h4>
 <p>
-  <img align="left" src="https://img.shields.io/badge/Tailwind-1c1c1c?&style=flat-square&logo=Tailwind" />
+  <img align="left" src="https://img.shields.io/badge/Tailwindcss-1c1c1c?&style=flat-square&logo=Tailwindcss" />
   <img align="left" src="https://img.shields.io/badge/Bootstrap-1c1c1c?&style=flat-square&logo=Bootstrap" />
   <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
   <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
