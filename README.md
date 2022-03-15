@@ -31,7 +31,7 @@
   
 <br/><br/>
 
-<h4>Frameworks & Software</h4>
+<h4>Frameworks & Other</h4>
 <p>
   <img align="left" src="https://img.shields.io/badge/Tailwindcss-1c1c1c?&style=flat-square&logo=Tailwindcss" />
   <img align="left" src="https://img.shields.io/badge/Bootstrap-1c1c1c?&style=flat-square&logo=Bootstrap" />
@@ -41,6 +41,8 @@
   <img align="left" src="https://img.shields.io/badge/React Native-1c1c1c?&style=flat-square&logo=React" />
   <img align="left" src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
   <img align="left" src="https://img.shields.io/badge/Docker-1c1c1c?&style=flat-square&logo=Docker" />
+  <img align="left" src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=Git" />
+  <img align="left" src="https://img.shields.io/badge/Github-1c1c1c?&style=flat-square&logo=Github" />
 </p>
   
 <br/><br/>
